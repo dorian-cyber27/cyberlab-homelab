@@ -74,3 +74,9 @@ To build a realistic Active Directory environment for learning enterprise IT adm
 
 ## Status
 Active development — Phase 2 in progress
+
+## Network Diagram
+
+Below is the current CyberLab architecture showing all virtual machines and their internal network configuration.
+
+![CyberLab Network Diagram](diagrams/cyberlab-network-diagram.png)
